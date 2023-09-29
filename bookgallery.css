@@ -1,0 +1,63 @@
+h1{
+    background-color: #990011FF;
+    color: #FCF6F5FF;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+}
+body{
+    background-image: url(./images/library.webp);
+}
+.cb{
+    height: 380px;
+    width: 30%;
+    float: left;
+    text-align: center;
+    margin: 5px;
+    padding-top: 20px;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(252, 246, 245);
+}
+.cb:hover{
+    background-color: rgba(153, 0, 18, 0.501);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+    color: #FCF6F5FF;
+}
+h3{
+    font-weight: bold;
+    font-style: italic;
+    margin: 5px;
+}
+h4{
+    margin: 10px;
+}
+img{
+    height: 150px;
+    width: 120px;
+}
+p{
+    margin: 0px;
+    padding: 20px;
+    text-align: justify;
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button{
+    margin-top: 5px;
+    background-color: #990012;
+    color: #FCF6F5FF;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: rgb(252, 246, 245);
+    color: #990012;
+    border-radius: 25px;
+}
